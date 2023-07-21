@@ -3,7 +3,6 @@ import './App.css';
 import { Box } from './components/styled/Box.styled';
 import { Image, Text, Title } from './components/styled/Card.styled';
 import { Btn } from './components/styled/Button.styled';
-import photo from './components/images/Rectangle1.jpg'
 import { myTheme } from './components/styled/Theme.styled';
 
 function App() {
