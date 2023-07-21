@@ -8,7 +8,8 @@ export const Title = styled.h1`
     font-weight: 700;
     font-family: 'Inter',sans-serif;
     color: ${myTheme.colors.colorTitle};
-    margin: 20px
+    margin: 20px;
+   ff
 `
 
 export const Image = styled.img`
