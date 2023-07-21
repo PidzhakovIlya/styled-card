@@ -6,6 +6,8 @@ export const Post =()=>{
             <h2>Post222</h2>
             <h2>Post222</h2>
             <h2>Post222</h2>
+            <h2>Post222</h2>
+            <h2>Post222</h2>
         </div>
     )
 }
