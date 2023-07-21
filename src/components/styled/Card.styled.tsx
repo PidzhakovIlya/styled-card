@@ -9,16 +9,13 @@ export const Title = styled.h1`
     font-family: 'Inter',sans-serif;
     color: ${myTheme.colors.colorTitle};
     margin: 20px;
-   ff
 `
 
 export const Image = styled.img`
-
   width: 280px;
   height: 170px;
   border-radius: 10px;
   margin: 10px 10px 0;
-
 
 `
 export const Text = styled.p`

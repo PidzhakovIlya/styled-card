@@ -7,7 +7,7 @@ export const GlobalStyles= createGlobalStyle`
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-        font-family: 'Inther'
+        font-family: 'Inther', sans-serif;
     }
     body {
         background-color: #cfcece;
